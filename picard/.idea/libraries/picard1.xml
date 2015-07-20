@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="picard1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testELC/picard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
